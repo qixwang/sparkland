@@ -1,4 +1,9 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC new added md
+
+# COMMAND ----------
+
 # MAGIC %md # Description: Diving into the Delta Lake Features. This notebook covers Delta Lake Features using the Lending Club data.
 # MAGIC  * Convert your data from Parquet into Delta Lake Format
 # MAGIC  * Use Batch and Streaming as a sink source
