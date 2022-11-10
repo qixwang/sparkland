@@ -19,10 +19,6 @@
 
 # COMMAND ----------
 
-# MAGIC %md ## Setup
-# MAGIC To run this notebook, you have to [create a cluster](https://docs.databricks.com/clusters/create.html) with version **Databricks Runtime 7.6 or later**
-
-# COMMAND ----------
 
 db = "deltadb"
 
